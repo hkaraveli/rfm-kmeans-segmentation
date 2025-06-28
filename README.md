@@ -84,3 +84,18 @@ No commercial use or distribution of proprietary data is permitted.
 **Install dependencies:**
 ```bash
 pip install pandas numpy scikit-learn matplotlib
+```
+
+## Clustering Results & Visualizations
+
+### Elbow Method and Silhouette Scores
+
+These charts help determine the optimal number of clusters for K-Means:
+
+![Elbow and Silhouette](1.png)
+
+### K-Means Clusters (Recency vs. Monetary)
+
+This scatter plot shows customers segmented by K-Means on recency and monetary value:
+
+![Clusters](2.png)
