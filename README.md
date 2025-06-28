@@ -92,10 +92,10 @@ pip install pandas numpy scikit-learn matplotlib
 
 These charts help determine the optimal number of clusters for K-Means:
 
-![Elbow and Silhouette](1.png)
+![Elbow and Silhouette](figures/1.png)
 
 ### K-Means Clusters (Recency vs. Monetary)
 
 This scatter plot shows customers segmented by K-Means on recency and monetary value:
 
-![Clusters](2.png)
+![Clusters](figures/2.png)
